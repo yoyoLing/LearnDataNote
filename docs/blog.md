@@ -3,9 +3,9 @@
 home: true
 layout: BlogHome
 icon: home
-title: 互联网小白
+title: 互联网萌新
 #heroImage: /logo.svg
-heroText: 互联网小白
+heroText: 互联网萌新
 tagline: 盛年不重来，一日难再晨
 bgImage: https://tc.seoipo.com/home-bg-1.jpg
 heroFullScreen: false
